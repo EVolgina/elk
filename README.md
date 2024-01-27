@@ -73,6 +73,9 @@ vagrant@vagrant:~/10-monitoring-04-elk/elk$ curl -X GET "localhost:9200/_cluster
   "task_max_waiting_in_queue_millis" : 422,
   "active_shards_percent_as_number" : "NaN"
 }
+
+elasticsearch@4bdf507bc6bf:~$ bin/elasticsearch-create-enrollment-token --scope kibana
+ERROR: [xpack.security.enrollment.enabled] must be set to `true` to create an enrollment token
 ```
   ###Подскажите  как добыть токен. Что не так делаю? 
   ![1](https://github.com/EVolgina/elk/blob/main/5601.PNG)
