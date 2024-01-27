@@ -75,7 +75,7 @@ vagrant@vagrant:~/10-monitoring-04-elk/elk$ curl -X GET "localhost:9200/_cluster
 }
 ```
   ###Подскажите  как добыть токен. Что не так делаю? 
-  ![1]()
+  ![1](https://github.com/EVolgina/elk/blob/main/5601.PNG)
 # Задание 2
 - Перейдите в меню создания index-patterns в kibana и создайте несколько index-patterns из имеющихся.
 - Перейдите в меню просмотра логов в kibana (Discover) и самостоятельно изучите, как отображаются логи и как производить поиск по логам.
