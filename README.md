@@ -78,6 +78,8 @@ elasticsearch@4bdf507bc6bf:~$ bin/elasticsearch-create-enrollment-token --scope 
 ERROR: [xpack.security.enrollment.enabled] must be set to `true` to create an enrollment token
 ```
   ###Подскажите  как добыть токен. Что не так делаю? 
+  [Логи]https://github.com/EVolgina/elk/blob/main/%D0%BB%D0%BE%D0%B3%D0%B8.docx
+  ![param]()
   ![1](https://github.com/EVolgina/elk/blob/main/5601.PNG)
 # Задание 2
 - Перейдите в меню создания index-patterns в kibana и создайте несколько index-patterns из имеющихся.
