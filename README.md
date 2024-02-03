@@ -79,7 +79,7 @@ ERROR: [xpack.security.enrollment.enabled] must be set to `true` to create an en
 ```
   ###Подскажите  как добыть токен. Что не так делаю? 
   [Логи]https://github.com/EVolgina/elk/blob/main/%D0%BB%D0%BE%D0%B3%D0%B8.docx
-  ![param]()
+  ![param](https://github.com/EVolgina/elk/blob/main/param.PNG)
   ![1](https://github.com/EVolgina/elk/blob/main/5601.PNG)
 # Задание 2
 - Перейдите в меню создания index-patterns в kibana и создайте несколько index-patterns из имеющихся.
